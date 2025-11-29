@@ -1,6 +1,6 @@
-git init
-git add app.py requirements.txt
-git commit -m "Subir script"
-git branch -M main
-git remote add origin https://github.com/TuUsuario/copiar-informe-ventas.git
-git push -u origin main
+flask
+requests
+msal
+openpyxl
+gunicorn
+
